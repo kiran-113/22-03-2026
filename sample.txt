@@ -1,1 +1,2 @@
 this id .gitignore sample
+prevent push to main branch
